@@ -1,0 +1,2 @@
+# Variable
+YazilimPatika_Variable
